@@ -1,3 +1,52 @@
+body {
+    background-color: antiquewhite;
+    background-image: url(obrázky/image6.jpeg);
+    background-repeat: no-repeat;
+    background-size: 20% 200%;
+    color: black;
+    font-size: 16px;
+    line-height: 45px;
+    padding-top: 30px;
+    text-align: center;
+    overflow: auto;   
+
+}
+
+
 h1 {
-    color: brown;
+    color: rgb(3, 80, 43);
+    text-align: center;
+
+}
+h2 { 
+    text-align: center;
+    margin-top: 80px;
+
+}
+.Pozadi {
+    float: left;
+
+}
+.Profilove-foto {
+    float: left;
+    border-radius: 50%;
+    width: 400px;  
+    margin: 50px;
+    border-radius: 50%;
+    border: 15px solid antiquewhite;
+
+}
+.table {
+    text-align: center;
+}
+.info {
+    text-align: right;
+    padding-left: 50px;
+}
+.th,
+td {
+    text-align: left;
+    border-bottom: 2px solid black;
+    padding: 10px 0;
+    
 }
