@@ -88,7 +88,7 @@ td {
     border-bottom: 2px solid black;
     padding: 20px 0;
     font-size: 30px;
-    font: italic;
+    
     
 }
 .obsah {
@@ -100,7 +100,6 @@ h2 {
     margin-left: 25%;
     color: rgb(3, 80, 43);
     text-align: left;
-    font: italic;
 }
 h3 {
     margin-left: 25%;
