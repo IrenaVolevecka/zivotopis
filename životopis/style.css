@@ -4,14 +4,17 @@ body {
     background-repeat: no-repeat;
     background-size: 20% 200%;
     color: black;
-    font-size: 16px;
+    font-size: 30px;
     line-height: 45px;
-    padding-top: 30px;
+    padding-top: 50px;
+    margin-bottom: 50px;
     text-align: center;
     overflow: auto;   
 
 }
-
+a {
+    color:  rgb(3, 80, 43);
+}
 
 h1 {
     color: rgb(3, 80, 43);
@@ -19,7 +22,7 @@ h1 {
 
 }
 h2 { 
-    text-align: center;
+    text-align: left;
     margin-top: 80px;
 
 }
@@ -38,15 +41,20 @@ h2 {
 }
 .table {
     text-align: center;
+
 }
 .info {
     text-align: right;
     padding-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+
 }
 .th,
 td {
     text-align: left;
     border-bottom: 2px solid black;
-    padding: 10px 0;
+    padding: 20px 0;
+    font-size: 30px;
     
 }
